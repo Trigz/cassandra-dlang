@@ -1,0 +1,10 @@
+{
+	"name": "cassandra-dlang",
+	"description": "A vibe.d cassandra driver",
+	"authors": ["Nick Sullivan"],
+	"license": "MIT",
+	"dependencies": {
+		"vibe-d": "~>0.7.23"
+	},
+    "versions": ["VibeDefaultMain"]
+}

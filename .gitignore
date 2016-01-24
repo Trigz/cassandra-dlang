@@ -1,0 +1,6 @@
+dub.selections.json
+source/app.d
+.dub
+*.a
+*.o
+*.obj
